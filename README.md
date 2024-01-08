@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-lorem text
+The Path to Success
 
 ### Mô tả
-lorem phần mô tả
+Yêu mầu tím, Ghét sự giả dối
 
 
-## Hình ảnh công ty
+## Trụ sở làm việc
 ![Partron Vina](https://bizweb.dktcdn.net/100/391/457/files/nha-may-partron-vinh-phuc.jpg?v=1623921719773)
 
 ## Nhân viên
