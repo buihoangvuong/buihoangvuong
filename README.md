@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-The Path to Success
+The Path To Success
 
 ### Mô tả
 Yêu mầu tím, Ghét sự giả dối
